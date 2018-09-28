@@ -5,4 +5,7 @@
 #### 09/27/2018
 1. Machine learning : 
    [Helping computers fill in the gaps between video frames](http://news.mit.edu/2018/machine-learning-video-activity-recognition-0914)
-
+2. Robot : 
+   [Robots can now pick up any object after inspecting it](http://news.mit.edu/2018/mit-csail-robots-can-pick-any-object-after-inspection-0910)
+3. Machine Learning : 
+   [This Painter AI Fools Art Historians 39% of the Time](https://www.youtube.com/watch?v=dyzn3Fmtw-E)
