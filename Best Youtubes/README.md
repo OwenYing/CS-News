@@ -10,3 +10,4 @@
 
 ### High Techs
 1. [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
+2. [Bloomberg Technology](https://www.youtube.com/channel/UCrM7B7SL_g1edFOnmj-SDKg)
