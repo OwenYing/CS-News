@@ -3,7 +3,6 @@
 ### Computer Science News
 ##### Want to be a contributer? Send email to ytc@vt.edu
 #### 09/27/2018
-1. Familiar with Candy Depot
-2. Add homepage's CandyFactory shake animation
-3. Add Cloud moving animation **Missing Cloud Image as IOS game**
+1. Machine learning : 
+   [Helping computers fill in the gaps between video frames](http://news.mit.edu/2018/machine-learning-video-activity-recognition-0914)
 
