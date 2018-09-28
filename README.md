@@ -1,6 +1,6 @@
 # CS-News
 
-### Computer Science News
+### Computer Science News -- Know the Newest Trends
 ##### Want to be a contributer? Send email to ytc@vt.edu
 #### 09/27/2018
 1. Machine learning : 
