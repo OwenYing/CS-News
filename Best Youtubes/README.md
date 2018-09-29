@@ -2,7 +2,7 @@
 # Best Youtubes of Computer Science
 
 ### Web Development toturials
-1. [Traversy Media](https://www.youtube.com/user/TechGuyWeb/about)
+1. [Traversy Media](https://www.youtube.com/user/TechGuyWeb/playlists)
 
 ### Machine Learning
 1. [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
