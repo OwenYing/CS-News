@@ -3,6 +3,10 @@
 ### Computer Science News -- Know the Newest Trends
 ##### Want to be a contributer? Send email to ytc@vt.edu
 
+#### 10/01/2018
+1. Google Map:
+   [Track your Bus in real time](https://www.cnet.com/news/google-maps-adds-commute-tab-to-give-detailed-journey-info/)
+
 #### 09/30/2018
 1. Women write better code than men, study suggests:
    [Interesting](https://www.independent.co.uk/life-style/gadgets-and-tech/news/women-better-code-men-github-study-a6870836.html)
