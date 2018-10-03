@@ -3,6 +3,12 @@
 ### Computer Science News -- Know the Newest Trends
 ##### Want to be a contributer? Send email to ytc@vt.edu
 
+#### 10/02/2018
+1. Women Equality:
+   [What California's law to get women in the boardroom means for Silicon Valley](https://www.cnet.com/news/what-californias-law-to-get-women-in-the-boardroom-means-for-silicon-valley/)
+2. 2018 Nobel Prize Physics:
+   [Arthur Ashkin, Gerard Mourou, Donna Strickland](https://www.cnet.com/news/2018-nobel-prize-in-physics-jointly-awarded-to-trio-of-laser-physics-inventors/)
+
 #### 10/01/2018
 1. Google Map:
    [Track your Bus in real time](https://www.cnet.com/news/google-maps-adds-commute-tab-to-give-detailed-journey-info/)
