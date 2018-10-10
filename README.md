@@ -4,6 +4,12 @@
 ##### Want to be a contributer? Send email to ytc@vt.edu
 
 #### 10/02/2018
+1. AR:
+   [Magic Leap is now available across the US](https://www.cnet.com/news/magic-leap-is-finally-available-in-more-us-cities/)
+2. Pixel 3:
+   [Pixel 3 vs. iPhone XS vs. Galaxy S9](https://www.cnet.com/news/pixel-3-vs-iphone-xs-vs-galaxy-s9/)
+
+#### 10/02/2018
 1. Women Equality:
    [What California's law to get women in the boardroom means for Silicon Valley](https://www.cnet.com/news/what-californias-law-to-get-women-in-the-boardroom-means-for-silicon-valley/)
 2. 2018 Nobel Prize Physics:
