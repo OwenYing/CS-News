@@ -3,6 +3,7 @@
 
 ### Web Development toturials
 1. [Traversy Media](https://www.youtube.com/user/TechGuyWeb/playlists)
+2. [JQuery](https://www.youtube.com/user/learncodeacademy/featured)
 
 ### Machine Learning
 1. [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
