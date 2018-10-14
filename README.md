@@ -3,6 +3,10 @@
 ### Computer Science News -- Know the Newest Trends
 ##### Want to be a contributer? Send email to ytc@vt.edu
 
+#### 10/14/2018
+1. Cool things:
+   [25 Genius Gadgets You Probably Haven’t Heard Of (Under $60)](http://www.ceeny.com/sponsored/trending-gadgets-under-60/?gclid=EAIaIQobChMI4cLPl4yF3gIVBZ7ICh0Qkw0sEAEYASAAEgJVJfD_BwE)
+
 #### 10/12/2018
 1. AR:
    [Magic Leap is now available across the US](https://www.cnet.com/news/magic-leap-is-finally-available-in-more-us-cities/)
