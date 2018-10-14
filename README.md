@@ -3,7 +3,7 @@
 ### Computer Science News -- Know the Newest Trends
 ##### Want to be a contributer? Send email to ytc@vt.edu
 
-#### 10/02/2018
+#### 10/12/2018
 1. AR:
    [Magic Leap is now available across the US](https://www.cnet.com/news/magic-leap-is-finally-available-in-more-us-cities/)
 2. Pixel 3:
